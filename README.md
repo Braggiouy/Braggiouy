@@ -16,7 +16,7 @@
 
 <br>
 
-## 🔰 Programmer on a fresh start
+## 🔰 Programmer on a fresh start...
 
 
 Hi there! 🤙 
