@@ -3,6 +3,9 @@
 
 <hr>
 
+![](https://www.codewars.com/users/Braggiouy/badges/micro)
+
+
 ### <p  align="center">📫 Contact me :</p>
 
 <p align="center">
@@ -13,6 +16,7 @@
 </p>
 
 <hr>
+
 
 <br>
 
