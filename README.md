@@ -1,14 +1,14 @@
 # <p align="center"> 🚶 BRAGGIO / A NEW JOURNEY IN THE MAKING 🥇 </p>
 
 <p align="center">
-  - <a href="https://www.linkedin.com/in/bruno-aggierni/">LinkedIn</a> -
+  - <img href="https://www.linkedin.com/in/bruno-aggierni/" src="">LinkedIn -
   <a href="https://www.instagram.com/bru.aggio_/">Instagram</a> -
   <a href="https://twitter.com/BruAggierni">Twitter</a> -
 </p>
 
 ![](https://www.codewars.com/users/Braggiouy/badges/micro)
 
-### 🔰 Programmer on a fresh start
+## 🔰 Programmer on a fresh start
 
 
 Hi! I'm Bruno, born and bred in Uruguay 🇺🇾, formed over the world 🌎 . 
@@ -36,11 +36,11 @@ I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz.
 📍 Now I'm doing a Full-Stack Developer Bootcamp with Reboot Academy. 💪
 
 
-### GitHub Stats
+## GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&hide=issues&count_private=true&show_icons=true&theme=vue-dark&line_height=32" />
 
-### My Knowledge
+## My Knowledge
 
 #### Front-End:
 
@@ -48,32 +48,45 @@ I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat&logo=postcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### Back-End :
+
+ 🚧 In progress 🚧
+
+#### DevOps:
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 #### Languages:
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 
+#### Frameworks SPA:
+
+![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 #### UX/UI:
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 
-#### Utilities:
+#### Utilities & More:
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Testing](https://img.shields.io/badge/-Testing%20Library-E33332?style=flat&logo=testing-library&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white)
 
-#### DevOps:
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
-
-#### Operative system:
+#### Operative system & Terminal:
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
-#### Terminal : 
-
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
 
 #### Business:
@@ -84,8 +97,7 @@ I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz.
 
 
 
-![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+
 
 
 
