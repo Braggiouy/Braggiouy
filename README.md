@@ -1,4 +1,4 @@
-<h1 align="center"> 🚶 BRAGGIO / A NEW JOURNEY IN THE MAKING 🥇 </h1>
+<h1 align="center"> 🚶 BRAGGIO / A NEW JOURNEY IS ABOUT TO BEGIN 🥇 </h1>
 
 
 <hr>
@@ -41,10 +41,11 @@ Having said all this, I've always been an individual that is always looking to l
 
 I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz. 
 
-🥇 I recently graduated as a Front-End Developer with EOI (Escuela de Organizacion Industrial) 
-📍 Now I'm doing a Full-Stack Developer Bootcamp with Reboot Academy. 💪
 
-## GitHub Stats ![](https://img.shields.io/badge/--181717?style=for-the-badge&logo=github&logoColor=white)
+🥇 I recently graduated as a Front-End Developer with EOI (Escuela de Organizacion Industrial)
+
+📍 Now I'm doing a Full-Stack Developer Bootcamp with Reboot Academy. 💪
+## GitHub stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&hide=issues&count_private=true&show_icons=true&theme=vue-dark&line_height=32" />
 
