@@ -1,17 +1,27 @@
-# <p align="center"> 🚶 BRAGGIO / A NEW JOURNEY IN THE MAKING 🥇 </p>
+<h1 align="center"> 🚶 BRAGGIO / A NEW JOURNEY IN THE MAKING 🥇 </h1>
+
+
+<hr>
+
+### <p  align="center">📫 Contact me :</p>
 
 <p align="center">
-  - <img href="https://www.linkedin.com/in/bruno-aggierni/" src="">LinkedIn -
-  <a href="https://www.instagram.com/bru.aggio_/">Instagram</a> -
-  <a href="https://twitter.com/BruAggierni">Twitter</a> -
+  <a target="_blank"href="https://www.linkedin.com/in/bruno-aggierni/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/BruAggierni"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:bruno.aggierni@gmail.com?subject=Hello%20Bruno,%20I%20contact%20you%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/bru.aggio_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-![](https://www.codewars.com/users/Braggiouy/badges/micro)
+<hr>
+
+<br>
 
 ## 🔰 Programmer on a fresh start
 
 
-Hi! I'm Bruno, born and bred in Uruguay 🇺🇾, formed over the world 🌎 . 
+Hi there! 🤙 
+
+My name is Bruno, born and bred in Uruguay 🇺🇾, formed over the world 🌎 . 
 <br>
 <br>
 For a long time I've wanted to start programming, but never had to courage to do so. Covid-era made me realize that I had to make a change in my life. So I decided to aim for it, and here I am, a programmer in the making! 👊
@@ -27,20 +37,18 @@ While traveling around the globe, I learned how to speak several languages:
 - 🇻🇳 Vietnamese (Just a really BASIC amout 😆)
 
 <br>
-
-Having said all this, I've always been an individual that is always looking to learn new things. Therefor, now that I've been granted all this human languages knowledge 📚 , it's time for me to learn computer languages! 🖥️ 
+Having said all this, I've always been an individual that is always looking to learn new things. Therefore, now that I've been granted all this human languages knowledge 📚 , it's time for me to learn computer languages! 🖥️ 
 
 I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz. 
 
 🥇 I recently graduated as a Front-End Developer with EOI (Escuela de Organizacion Industrial) 
 📍 Now I'm doing a Full-Stack Developer Bootcamp with Reboot Academy. 💪
 
-
-## GitHub Stats
+## GitHub Stats ![](https://img.shields.io/badge/--181717?style=for-the-badge&logo=github&logoColor=white)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&hide=issues&count_private=true&show_icons=true&theme=vue-dark&line_height=32" />
 
-## My Knowledge
+## My Knowledge 👨‍🎓
 
 #### Front-End:
 
@@ -94,6 +102,19 @@ I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz.
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)
+
+
+<hr>
+<p align="center">
+   <i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i>
+   <br>
+   <i> – Martin Fowler - </i>
+   <br>
+</p> 
+<hr>
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/Braggiouy/braggiouy?color=gold" alt="Visitors badge" />
+ </a>
 
 
 
