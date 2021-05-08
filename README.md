@@ -21,7 +21,8 @@
 
 Hi there! 🤙 
 
-My name is Bruno, born and bred in Uruguay 🇺🇾, formed over the world 🌎 . 
+My name is Bruno, born and bred in Uruguay 🧉 🇺🇾, formed over the world 🌎 . 
+📌 Based in Santa Cruz de Tenerife, Canary Islands 🇮🇨 🌴
 <br>
 <br>
 For a long time I've wanted to start programming, but never had to courage to do so. Covid-era made me realize that I had to make a change in my life. So I decided to aim for it, and here I am, a programmer in the making! 👊
