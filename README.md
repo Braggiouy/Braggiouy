@@ -21,7 +21,8 @@
 
 Hi there! 🤙 
 
-My name is Bruno, born and bred in Uruguay 🧉 🇺🇾, formed over the world 🌎 . 
+📢 My name is Bruno, born and bred in Uruguay 🧉 🇺🇾, formed over the world 🌎 . 
+
 📌 Based in Santa Cruz de Tenerife, Canary Islands 🇮🇨 🌴
 <br>
 <br>
