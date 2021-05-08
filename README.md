@@ -2,3 +2,5 @@
 
 
 Hola a todos, este es mi readme.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braggiouy)](https://github.com/anuraghazra/github-readme-stats)
