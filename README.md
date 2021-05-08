@@ -3,6 +3,7 @@
 
 Hola a todos, este es mi readme.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&theme=vue-dark" alt="Braggiouy's github stats" />
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&hide=issues&count_private=true&show_icons=true&theme=vue-dark&line_height=40" />
