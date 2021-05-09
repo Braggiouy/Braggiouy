@@ -40,7 +40,7 @@ While traveling around the globe, I learned how to speak several languages:
 - 🇬🇧 English
 - 🇫🇷 French
 - 🇩🇪 German
-- 🇻🇳 Vietnamese (Just a really BASIC amout 😆)
+- 🇻🇳 Vietnamese (Just a really tiny bit 😆)
 
 <br>
 Having said all this, I've always been an individual that is always looking to learn new things. Therefore, now that I've been granted all this human languages knowledge 📚 , it's time for me to learn computer languages! 🖥️ 
@@ -53,7 +53,7 @@ I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz.
 📍 Now I'm doing a Full-Stack Developer Bootcamp with Reboot Academy. 💪
 ## GitHub stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&hide=issues&count_private=true&show_icons=true&theme=vue-dark&line_height=32&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&hide=issues&count_private=true&show_icons=true&theme=vue-dark&line_height=32" />
 
 ## My Knowledge 👨‍🎓
 
