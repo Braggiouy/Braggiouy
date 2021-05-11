@@ -53,7 +53,7 @@ I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz.
 📍 Now I'm doing a Full-Stack Developer Bootcamp with Reboot Academy. 💪
 ## GitHub stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&hide=issues&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark&line_height=32" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&hide=issues&include_all_commits=true&show_icons=true&theme=vue-dark&line_height=32" />
 
 ## My Knowledge 👨‍🎓
 
