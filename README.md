@@ -84,7 +84,7 @@ I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz.
 
 #### Frameworks SPA:
 
-![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vuejs&logoColor=white)
 
 #### UX/UI:
 
