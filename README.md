@@ -49,9 +49,10 @@ Having said all this, I've always been an individual that is always looking to l
 I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz. 
 
 
-🥇 I recently graduated as a Front-End Developer with EOI (Escuela de Organizacion Industrial)
+🥇 Graduated as a Front-End Developer with EOI (Escuela de Organizacion Industrial)
 
-📍 Now I'm doing a Full-Stack Developer Bootcamp with Reboot Academy. 💪
+🥇 Recently graduated as a Full-Stack Developer with Reboot Academy.
+
 ## GitHub stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
