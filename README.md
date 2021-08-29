@@ -31,7 +31,7 @@ Hi there! 🤙
 📌 Based in Santa Cruz de Tenerife, Canary Islands 🇮🇨 🌴
 <br>
 <br>
-For a long time I've wanted to start programming, but never had to courage to do so. Covid-era made me realize that I had to make a change in my life. So I decided to aim for it, and here I am, a programmer in the making! 👊
+For a long time I've wanted to start programming, but never had the courage to do so. Covid-era made me realize that I had to make a change in my life. So I decided to aim for it, and here I am, a programmer in the making! 👊
 <br>
 <br>
 While traveling around the globe, I learned how to speak several languages:
@@ -46,12 +46,13 @@ While traveling around the globe, I learned how to speak several languages:
 <br>
 Having said all this, I've always been an individual that is always looking to learn new things. Therefore, now that I've been granted all this human languages knowledge 📚 , it's time for me to learn computer languages! 🖥️ 
 
-I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz. 
+I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
 
 
 🥇 Graduated as a Front-End Developer with EOI (Escuela de Organizacion Industrial)
 
 🥇 Recently graduated as a Full-Stack Developer with Reboot Academy.
+
 
 ## GitHub stats:
 
@@ -97,6 +98,7 @@ I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz.
 #### Frameworks SPA:
 
 ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/-NuxtJS-00C58E?style=flat&logo=nuxtdotjs&logoColor=black)
 
 #### UX/UI:
 
@@ -126,9 +128,9 @@ I enjoy playing ⚽ football, 🎮 videogames, ☕ coffee and 🎷 jazz.
 
 <hr>
 <p align="center">
-   <i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i>
+   <i> “ Experience is the name everyone gives to their mistakes. ” </i>
    <br>
-   <i> – Martin Fowler - </i>
+   <i> – Oscar Wilde - </i>
    <br>
 </p> 
 <hr>
