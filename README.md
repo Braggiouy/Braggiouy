@@ -49,9 +49,9 @@ Having said all this, I've always been an individual that is always looking to l
 I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
 
 
-🥇 Graduated as a Front-End Developer with EOI (Escuela de Organizacion Industrial)
+🥇 Graduated as a Front End Developer with EOI (Escuela de Organizacion Industrial)
 
-🥇 Recently graduated as a Full-Stack Developer with Reboot Academy.
+🥇 Recently graduated as a Full Stack Developer with Reboot Academy.
 
 
 ## GitHub stats:
@@ -79,9 +79,6 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
- 
- 🚧 In progress 🚧
 
 #### DevOps:
 
