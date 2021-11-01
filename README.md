@@ -53,6 +53,8 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 🥇 Recently graduated as a Full Stack Developer with Reboot Academy.
 
+🏢 Working at 2Coders Studios as a Web Developer.
+
 
 ## GitHub stats:
 
