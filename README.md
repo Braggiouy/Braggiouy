@@ -28,7 +28,7 @@ Hi there! 🤙
 
 📢 My name is Bruno, born and bred in Uruguay 🧉 🇺🇾, formed over the world 🌎 . 
 
-📌 Based in Santa Cruz de Tenerife, Canary Islands 🇮🇨 🌴
+📌 Based in Canary Islands 🇮🇨 🌴
 <br>
 <br>
 For a long time I've wanted to start programming, but never had the courage to do so. Covid-era made me realize that I had to make a change in my life. So I decided to aim for it, and here I am, a programmer in the making! 👊
@@ -56,13 +56,16 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 🏢 Working at 2Coders Studios as a Web Developer.
 
 
+📖 Studying :   ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+
+
 ## GitHub stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&langs_count=10&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
 
 ## My Knowledge 👨‍🎓
 
-#### Front-End:
+#### Front End:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -73,8 +76,21 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
 
+#### WebComponents:
 
-#### Back-End :
+![Polymer](https://img.shields.io/badge/-Polymer%20Project-FF4470?style=flat&logo=polymerproject&logoColor=white)
+![Lit](https://img.shields.io/badge/-Lit-324FFF?style=flat&logo=lit&logoColor=white)
+
+#### Frameworks SPA:
+
+![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/-NuxtJS-00C58E?style=flat&logo=nuxtdotjs&logoColor=black)
+
+#### CMS : 
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+#### Back End :
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-Mongo-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -93,11 +109,6 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 #### Languages:
 
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-
-#### Frameworks SPA:
-
-![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/-NuxtJS-00C58E?style=flat&logo=nuxtdotjs&logoColor=black)
 
 #### UX/UI:
 
