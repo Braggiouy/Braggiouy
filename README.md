@@ -56,7 +56,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 🏢 Working at 2Coders Studios as a Web Developer.
 
 
-📖 Studying :   ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+📖 Studying :   ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 
 ## GitHub stats:
