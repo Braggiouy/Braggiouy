@@ -34,7 +34,7 @@ Hi there! 🤙
 For a long time I've wanted to start programming, but never had the courage to do so. Covid-era made me realize that I had to make a change in my life. So I decided to aim for it, and here I am, a programmer in the making! 👊
 <br>
 <br>
-While traveling around the globe, I learned how to speak several languages:
+While traveling around the globe, I learnt how to speak several languages:
 
 - 🇪🇸 Spanish
 - 🇵🇹 Portugese
