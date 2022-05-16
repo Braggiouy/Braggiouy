@@ -53,7 +53,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 🥇 Recently graduated as a Full Stack Developer with Reboot Academy.
 
-🏢 Working at 2Coders Studios as a Web Developer.
+🏢 Working at 2Coders Studios as a Web Developer & SmartTV Developer (Tizen).
 
 
 📖 Studying :   ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
