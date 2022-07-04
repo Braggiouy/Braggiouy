@@ -109,6 +109,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 #### Languages:
 
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 #### UX/UI:
 
