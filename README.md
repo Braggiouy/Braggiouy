@@ -145,9 +145,9 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
    <br>
 </p> 
 <hr>
-<a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/Braggiouy/braggiouy?color=gold" alt="Visitors badge" />
- </a>
+
+[![Visits Badge](https://badges.strrl.dev/visits/Braggiouy/braggiouy)](https://badges.strrl.dev)
+
 
 
 
