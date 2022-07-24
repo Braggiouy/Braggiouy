@@ -56,7 +56,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 🏢 Working at 2Coders Studios as a Web Developer & SmartTV Developer (Tizen).
 
 
-📖 Studying :   ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+📖 Studying :  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Java](https://img.shields.io/badge/-OpenJDK-FFFFFF?style=flat&logo=openjdk&logoColor=black) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=wordpress&logoColor=white)
 
 
 ## GitHub stats:
@@ -84,7 +84,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 #### Frameworks SPA:
 
 ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/-NuxtJS-00C58E?style=flat&logo=nuxtdotjs&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
 
 #### CMS : 
 
