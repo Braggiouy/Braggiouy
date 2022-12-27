@@ -56,7 +56,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 🏢 Working at 2Coders Studios as a Web Developer & SmartTV Developer (Tizen).
 
 
-📖 Studying :  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Java](https://img.shields.io/badge/-OpenJDK-FFFFFF?style=flat&logo=openjdk&logoColor=black) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=wordpress&logoColor=white)
+📖 Studying :  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Java](https://img.shields.io/badge/-OpenJDK-FFFFFF?style=flat&logo=openjdk&logoColor=black)
 
 
 ## GitHub stats:
