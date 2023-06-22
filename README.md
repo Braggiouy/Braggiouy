@@ -65,7 +65,8 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 
 
-📖 Studying :  ![Java](https://img.shields.io/badge/-OpenJDK-FFFFFF?style=flat&logo=openjdk&logoColor=black) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
+📖 Studying :  ![Java](https://img.shields.io/badge/-OpenJDK-FFFFFF?style=flat&logo=openjdk&logoColor=black) ![react-testing-library](https://img.shields.io/badge/-react--testing--library-E33332?style=flat&logo=testing-library&logoColor=white)
+ ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
 
 📖 Studying just for fun : ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
@@ -103,6 +104,8 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
+#### Testing :
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 #### CMS : 
 
