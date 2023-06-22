@@ -65,7 +65,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 
 
-📖 Studying :  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![react-testing-library](https://img.shields.io/badge/-react--testing--library-E33332?style=flat&logo=testing-library&logoColor=white)
+📖 Studying :  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![react-testing-library](https://img.shields.io/badge/-react--testing--library-E33332?style=flat&logo=testing-library&logoColor=white)
  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
 
 📖 Studying just for fun : ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
@@ -130,7 +130,8 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+
 
 #### UX/UI:
 
