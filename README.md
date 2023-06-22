@@ -47,13 +47,13 @@ Having said all this, I've always been an individual that is always looking to l
 
 I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
 
-## Work Background
+## 🏢 Work Background
 
-🏢 10.2021 - Present || Working at 2Coders Studios as a React Web & SmartTV Developer (Samsung - Tizen / LG - WebOS)
+10.2021 - Present || Working at 2Coders Studios as a React Web & SmartTV Developer (Samsung - Tizen / LG - WebOS)
 
-## Academic Background
+## 📖 Academic Background
 
-📖 Studying at CIFP César Manrique Web Applications Development of Higher Education (HNC) | Desarrollo de Aplicaciones Web (DAW) 
+ Studying at CIFP César Manrique Web Applications Development of Higher Education (HNC) | Desarrollo de Aplicaciones Web (DAW) 
 * Year 1 ✔
 * Year 2 👈
 * Year 3 🔜
@@ -67,12 +67,16 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 📖 Studying :  ![Java](https://img.shields.io/badge/-OpenJDK-FFFFFF?style=flat&logo=openjdk&logoColor=black) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
 
+📖 Studying just for fun : ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
+
+
+
 
 ## GitHub stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&langs_count=10&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
 
-## My Knowledge 👨‍🎓
+## 👨‍🎓 My Knowledge 
 
 #### Front End:
 
@@ -92,7 +96,11 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 #### Frameworks SPA:
 
 ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![React Class Components](https://img.shields.io/badge/-React%20Class%20Components-61DAFB?style=flat&logo=react&logoColor=white)
+![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=flat&logo=react&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 
@@ -112,6 +120,8 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Octopus Deploy](https://img.shields.io/badge/-Octopus%20Deploy-2F93E0?style=flat&logo=octopus-deploy&logoColor=white)
 ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 
