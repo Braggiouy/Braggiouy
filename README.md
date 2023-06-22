@@ -41,22 +41,31 @@ While traveling around the globe, I learnt how to speak several languages:
 - 🇬🇧 English
 - 🇫🇷 French
 - 🇩🇪 German
-- 🇻🇳 Vietnamese (Just a really tiny bit 😆)
 
 <br>
 Having said all this, I've always been an individual that is always looking to learn new things. Therefore, now that I've been granted all this human languages knowledge 📚 , it's time for me to learn computer languages! 🖥️ 
 
 I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
 
+## Work Background
 
-🥇 Graduated as a Front End Developer with EOI (Escuela de Organizacion Industrial)
+🏢 10.2021 - Present || Working at 2Coders Studios as a React Web & SmartTV Developer (Samsung - Tizen / LG - WebOS)
 
-🥇 Recently graduated as a Full Stack Developer with Reboot Academy.
+## Academy Background
 
-🏢 Working at 2Coders Studios as a Web Developer & SmartTV Developer (Tizen).
+📖 Studying at CIFP César Manrique Web Applications Development of Higher Education (HNC) | Desarrollo de Aplicaciones Web (DAW) 
+* Year 1 ✔
+* Year 2 👈
+* Year 3 🔜
+
+🥇 05.2021 - 08.2021 || Full Stack Developer with Reboot Academy | 450 teaching hours.
+
+🥇 02.2021 - 05.2021 || Front End Developer with EOI | Escuela de Organizacion Industrial (EOI) | 335 teaching hours.
 
 
-📖 Studying :  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Java](https://img.shields.io/badge/-OpenJDK-FFFFFF?style=flat&logo=openjdk&logoColor=black)
+
+
+📖 Studying :  ![Java](https://img.shields.io/badge/-OpenJDK-FFFFFF?style=flat&logo=openjdk&logoColor=black) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
 
 
 ## GitHub stats:
@@ -83,7 +92,9 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 #### Frameworks SPA:
 
 ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
 
 #### CMS : 
 
