@@ -51,7 +51,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 🏢 10.2021 - Present || Working at 2Coders Studios as a React Web & SmartTV Developer (Samsung - Tizen / LG - WebOS)
 
-## Academy Background
+## Academic Background
 
 📖 Studying at CIFP César Manrique Web Applications Development of Higher Education (HNC) | Desarrollo de Aplicaciones Web (DAW) 
 * Year 1 ✔
