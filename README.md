@@ -47,22 +47,24 @@ Having said all this, I've always been an individual that is always looking to l
 
 I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
 
-## 🏢 Work Background
+<hr>
 
-10.2021 - Present || Working at 2Coders Studios as a React Web & SmartTV Developer (Samsung - Tizen / LG - WebOS)
+## 🏢 IT Professional Background
+
+10.2021 - Present || Working at **2Coders Studios** as a React Web & SmartTV Developer (Samsung - Tizen / LG - WebOS)
+
+<hr>
 
 ## 📖 Academic Background
 
- Studying at CIFP César Manrique Web Applications Development of Higher Education (HNC) | Desarrollo de Aplicaciones Web (DAW) 
+09.2022 - Present || Studying at **CIFP César Manrique** Web Applications Development of Higher Education (HNC) || Grado Superior en Desarrollo de Aplicaciones Web (DAW) 
 * Year 1 ✔
 * Year 2 👈
 * Year 3 🔜
 
-🥇 05.2021 - 08.2021 || Full Stack Developer with Reboot Academy | 450 teaching hours.
+🥇 05.2021 - 08.2021 || Full Stack Developer with **Reboot Academy** || 450 teaching hours.
 
-🥇 02.2021 - 05.2021 || Front End Developer with EOI | Escuela de Organizacion Industrial (EOI) | 335 teaching hours.
-
-
+🥇 02.2021 - 05.2021 || Front End Developer with **Escuela de Organizacion Industrial (EOI)** || 335 teaching hours.
 
 
 📖 Studying :  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![react-testing-library](https://img.shields.io/badge/-react--testing--library-E33332?style=flat&logo=testing-library&logoColor=white)
@@ -70,12 +72,14 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 📖 Studying just for fun : ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
-
+<hr>
 
 
 ## GitHub stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&langs_count=10&theme=vue-dark" alt="Braggiouy's github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Braggiouy&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
+
+<hr>
 
 ## 👨‍🎓 My Knowledge 
 
