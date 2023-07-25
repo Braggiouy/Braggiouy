@@ -100,7 +100,6 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 #### Frameworks SPA:
 
 ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![React Class Components](https://img.shields.io/badge/-React%20Class%20Components-61DAFB?style=flat&logo=react&logoColor=white)
 ![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=flat&logo=react&logoColor=white)
