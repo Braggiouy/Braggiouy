@@ -6,7 +6,7 @@
 ![](https://www.codewars.com/users/Braggiouy/badges/micro)
 
 
-### <p  align="center">📫 Contact me :</p>
+### <p align="center">📫 Contact me :</p>
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/bruno-aggierni/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,23 +77,19 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 ## GitHub stats:
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&langs_count=10&theme=vue-dark" alt="Braggiouy's github stats" />
-    </td>
-    <td style="border: none; padding: 0;">
-      <a href="https://app.daily.dev/braggio">
-        <img src="https://api.daily.dev/devcards/a67592ad065b47f0a7d6d76ef80b08ef.png?r=myd" width="400" alt="Bruno Aggierni's Dev Card" />
+<div align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braggiouy&langs_count=10&theme=vue-dark" alt="Braggiouy's github stats" />
+      <a align="right" href="https://app.daily.dev/braggio">
+        <img  src="https://api.daily.dev/devcards/a67592ad065b47f0a7d6d76ef80b08ef.png?r=myd" width="325" alt="Bruno Aggierni's Dev Card" />
       </a>
-    </td>
+</div>
+<!---
     <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=Braggiouy&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
-    </td>
-  </tr>
-</table>
+   </td>
+--->
+<br>
 
-<hr>
 
 ## 👨‍🎓 My Knowledge 
 
