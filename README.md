@@ -50,8 +50,8 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 <hr>
 
 ## 🏢 IT Professional Background
-
-10.2021 - Present || Working at **2Coders Studios** as a React Web & SmartTV Developer (Samsung - Tizen / LG - WebOS)
+09.2023 - Present || Working at **Knowmad Mood** as a React Native/React Web & SmartTV Developer (Samsung - Tizen / LG - WebOS / React Native / NodeJS)
+10.2021 - 09.2023 || Working at **2Coders Studios** as a React Web & SmartTV Developer (Samsung - Tizen / LG - WebOS)
 
 <hr>
 
