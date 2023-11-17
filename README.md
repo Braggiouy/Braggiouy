@@ -81,7 +81,8 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 ## GitHub stats:
 
 <div align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braggiouy&theme=react&langs_count=6&layout=pie" alt="Braggiouy's github stats" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braggiouy&show_icons=true&locale=en&layout=pie&theme=react&langs_count=6" alt="Braggiouy's github stats" /> 
+     <!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braggiouy&show_icons=true&locale=en&layout=compact&theme=react" alt="Braggiouy's github stats"  /> --->
       <a align="right" href="https://app.daily.dev/braggio">
         <img  src="https://api.daily.dev/devcards/a67592ad065b47f0a7d6d76ef80b08ef.png?r=myd" width="325" alt="Bruno Aggierni's Dev Card" />
       </a>
@@ -91,6 +92,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
       <img src="https://github-readme-stats.vercel.app/api?username=Braggiouy&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
    </td>
 --->
+
 <br>
 
 
