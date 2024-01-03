@@ -1,6 +1,9 @@
 <h1 align="center"> 🚶 BRAGGIO / A NEW JOURNEY IS ABOUT TO BEGIN 🥇 </h1>
 
-
+<hr>
+<p align="center">
+   <i> “ If you see anything you admire in someone, it's because it already exists in you. ” </i>
+</p> 
 <hr>
 
 ![](https://www.codewars.com/users/Braggiouy/badges/micro)
@@ -15,8 +18,6 @@
   <a href="https://www.instagram.com/bru.aggio_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/702517624319377499"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<hr>
 
 
 <br>
