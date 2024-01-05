@@ -104,7 +104,6 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Bulma](http://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
@@ -189,23 +188,4 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 <hr>
 
 [![Visits Badge](https://badges.strrl.dev/visits/Braggiouy/braggiouy)](https://badges.strrl.dev)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
