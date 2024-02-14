@@ -22,7 +22,7 @@
 
 <br>
 
-## 🔰 Programmer on a fresh start ...
+## 🔰 Developer on a fresh start ...
 
 
 Hi there! 🤙 
@@ -32,7 +32,7 @@ Hi there! 🤙
 📌 Based in Canary Islands 🇮🇨 🌴
 <br>
 <br>
-For a long time I've wanted to start programming, but never had the courage to do so. Covid-era made me realize that I had to make a change in my life. So I decided to aim for it, and here I am, a programmer in the making! 👊
+For a long time I've wanted to start programming, but never had the courage to do so. Covid-era made me realize that I had to make a change in my life. So I decided to aim for it, and here I am, a developer/engineer in the making! 👊
 <br>
 <br>
 While traveling around the globe, I learnt how to speak several languages:
@@ -43,32 +43,27 @@ While traveling around the globe, I learnt how to speak several languages:
 - 🇫🇷 French
 - 🇩🇪 German
 
-<br>
-Having said all this, I've always been an individual that is always looking to learn new things. Therefore, now that I've been granted all this human languages knowledge 📚 , it's time for me to learn computer languages! 🖥️ 
-
-I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
+Having said all this, I've always been an individual that is always looking to learn new things. Therefore, now that I've been granted all this human languages knowledge 📚 , it's time for me to learn computer languages! 🖥️ .   <br> <br> I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
 
 <hr>
 
 ## 🏢 IT Professional Background
 
-🏢 09.2023 - Present || Working at **Knowmad Mood** as a React / React Native, Web & SmartTV Developer (Samsung - Tizen / LG - WebOS / React Native / NodeJS)
+* 🏢 09.2023 -  Present <br> @**Knowmad Mood**  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript* , **React Native** - *Android - iOS*
 
-🏢 10.2021 - 09.2023 || Working at **2Coders Studios** as a React Web & SmartTV Developer (Samsung - Tizen / LG - WebOS)
+* 🏢 10.2021 - 09.2023 <br> @**2Coders Studios**  <br> *React Web & SmartTV Developer*  <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript*
 
 <hr>
 
 ## 📖 Academic Background
 
-09.2022 - Present || Studying at **CIFP César Manrique** Web Applications Development of Higher Education (HNC) || Grado Superior en Desarrollo de Aplicaciones Web (DAW) 
-* Year 1 ✔
-* Year 2 👈
-* Year 3 🔜
+* 📖 09.2022 - Present <br> @**CIFP César Manrique** <br> *Web Applications Development of Higher Education (HNC)* || *Grado Superior en Desarrollo de Aplicaciones Web (DAW)* <br> *2/3 Years*
 
-🥇 05.2021 - 08.2021 || Full Stack Developer with **Reboot Academy** || 450 teaching hours.
+* 📖 05.2021 - 08.2021 <br> @**Reboot Academy** <br> *Full Stack Web Developer Bootcamp* <br> *450 teaching hours*
 
-🥇 02.2021 - 05.2021 || Front End Developer with **Escuela de Organizacion Industrial (EOI)** || 335 teaching hours.
+* 📖 02.2021 - 05.2021 <br> @**Escuela de Organizacion Industrial (EOI)** <br> *Front End Web Developer Bootcamp* <br> *335 teaching hours*
 
+<hr>
 
 📖 Studying :  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![react-testing-library](https://img.shields.io/badge/-react--testing--library-E33332?style=flat&logo=testing-library&logoColor=white)
  ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
@@ -95,7 +90,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 --->
 
 <br>
-
+<hr>
 
 ## 👨‍🎓 My Knowledge 
 
