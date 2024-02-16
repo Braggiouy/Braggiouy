@@ -49,7 +49,7 @@ Having said all this, I've always been an individual that is always looking to l
 
 ## 🏢 IT Professional Background
 
-* 🏢 09.2023 -  Present <br> @**Knowmad Mood**  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript* , **React Native** - *Android - iOS*
+* 🏢 09.2023 -  Present <br> @**Norigin Media**  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript* , **React Native** - *Android - iOS*
 
 * 🏢 10.2021 - 09.2023 <br> @**2Coders Studios**  <br> *React Web & SmartTV Developer*  <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript*
 
@@ -57,7 +57,7 @@ Having said all this, I've always been an individual that is always looking to l
 
 ## 📖 Academic Background
 
-* 📖 09.2022 - Present <br> @**CIFP César Manrique** <br> *Web Applications Development of Higher Education (HNC)* || *Grado Superior en Desarrollo de Aplicaciones Web (DAW)* <br> *2/3 Years*
+* 📖 09.2022 - Present <br> @**CIFP César Manrique** <br> ***(en)** Web Applications Development of Higher Education (HNC)* <br> ***(es)** Grado Superior en Desarrollo de Aplicaciones Web (DAW)* <br> *2 out of 3 years completed*
 
 * 📖 05.2021 - 08.2021 <br> @**Reboot Academy** <br> *Full Stack Web Developer Bootcamp* <br> *450 teaching hours*
 
