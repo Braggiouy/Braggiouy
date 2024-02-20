@@ -79,10 +79,9 @@ Having said all this, I've always been an individual that is always looking to l
 <div align="center">
       <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=braggiouy&theme=nord_dark" alt="Braggiouy's github stats" /> 
      <!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braggiouy&show_icons=true&locale=en&layout=compact&theme=react" alt="Braggiouy's github stats"  /> --->
-      <a align="right" href="https://app.daily.dev/braggio">
-        <img  src="https://api.daily.dev/devcards/a67592ad065b47f0a7d6d76ef80b08ef.png?r=myd" width="325" alt="Bruno Aggierni's Dev Card" />
-      </a>
+<a align="right" href="https://app.daily.dev/braggio"><img src="https://api.daily.dev/devcards/v2/znHEbZftbwmPIKjXLZNlM.png?r=4l9&type=default" width="356" alt="Bruno Aggierni's Dev Card"/></a>
 </div>
+
 <!---
     <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=Braggiouy&count_private=true&show_icons=true&theme=vue-dark&line_height=33" />
