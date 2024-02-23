@@ -49,7 +49,15 @@ Having said all this, I've always been an individual that is always looking to l
 
 ## 🏢 IT Professional Background
 
-* 🏢 09.2023 -  Present <br> @**Norigin Media**  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript* , **React Native** - *Android - iOS*
+* 🏢 09.2023 -  Present <br> @**Norigin Media**  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> 
+![Samsung](https://img.shields.io/badge/Samsung%20|%20Tizen-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
+![LG](https://img.shields.io/badge/lg%20|%20WebOS-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 * 🏢 10.2021 - 09.2023 <br> @**2Coders Studios**  <br> *React Web & SmartTV Developer*  <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript*
 
