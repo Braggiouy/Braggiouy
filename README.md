@@ -49,7 +49,7 @@ Having said all this, I've always been an individual that is always looking to l
 
 ## 🏢 IT Professional Background
 
-* 🏢 09.2023 -  Present <br> @**Norigin Media**  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> *React Web , Native & SmartTV Developer*  <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript* , **React Native** - *Android - iOS* 
+* 🏢 09.2023 -  Present <br> @**Norigin Media**  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript* , **React Native** - *Android - iOS* 
 <!---
 ![Samsung](https://img.shields.io/badge/Samsung%20|%20Tizen-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 ![LG](https://img.shields.io/badge/lg%20|%20WebOS-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
