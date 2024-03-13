@@ -2,7 +2,7 @@
 
 <hr>
 <p align="center">
-   <i> “ If you see anything you admire in someone, it's because it already exists in you. ” </i>
+   <i> “ If you see anything you admire in someone, it's because it already exists in you ” </i>
 </p> 
 <hr>
 
