@@ -68,7 +68,7 @@ Having said all this, I've always been an individual that is always looking to l
 
 ## 📖 Academic Background
 
-* 📖 09.2022 - Present <br> @**CIFP César Manrique** <br> ***(🇬🇧)** Web Applications Development of Higher Education (HNC)* <br> ***(🇪🇸)** Grado Superior en Desarrollo de Aplicaciones Web (DAW)* <br> *2 out of 3 years completed*
+* 📖 09.2022 - Present <br> @**CIFP César Manrique** <br> ***(🇬🇧)** Web Applications Development of Higher Education (HND)* <br> ***(🇪🇸)** Grado Superior en Desarrollo de Aplicaciones Web (DAW)* <br> *2 out of 3 years completed*
 
 * 📖 05.2021 - 08.2021 <br> @**Reboot Academy** <br> *Full Stack Web Developer Bootcamp* <br> *450 teaching hours*
 
