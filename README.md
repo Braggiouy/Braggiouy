@@ -2,7 +2,7 @@
 
 <hr>
 <p align="center">
-   <i> “ If you see anything you admire in someone, it's because it already exists in you ” </i>
+  "If you see anything you admire in someone, it's because it already exists in you."
 </p> 
 <hr>
 
@@ -27,44 +27,26 @@
 
 Hi there! 🤙 
 
-📢 My name is Bruno, born and bred in Uruguay 🧉 🇺🇾, formed over the world 🌎 . 
+I'm Bruno, a passionate developer from Uruguay 🇺🇾 currently living in the Canary Islands 🇮🇨. After traveling the world and mastering several human languages 🌎. I switched gears to programming. Now, I'm focused on building innovative solutions with modern technologies like React, React Native, and SmartTV platforms.
 
-📌 Based in Canary Islands 🇮🇨 🌴
-<br>
-<br>
-For a long time I've wanted to start programming, but never had the courage to do so. Covid-era made me realize that I had to make a change in my life. So I decided to aim for it, and here I am, a developer/engineer in the making! 👊
-<br>
-<br>
-While traveling around the globe, I learnt how to speak several languages:
-
-- 🇪🇸 Spanish
-- 🇵🇹 Portugese
+Let's chat in : 
+- 🇺🇾 Spanish
+- 🇧🇷 Portugese
 - 🇬🇧 English
 - 🇫🇷 French
 - 🇩🇪 German
+  
+I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
 
-Having said all this, I've always been an individual that is always looking to learn new things. Therefore, now that I've been granted all this human languages knowledge 📚 , it's time for me to learn computer languages! 🖥️ .   <br> <br> I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
-
-<hr>
+<br>
 
 ## 🏢 IT Professional Background
 
 * 🏢 09.2023 -  Present <br> @**Norigin Media**  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript* , **React Native** - *Android - iOS* 
-<!---
-![Samsung](https://img.shields.io/badge/Samsung%20|%20Tizen-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
-![LG](https://img.shields.io/badge/lg%20|%20WebOS-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
--->
-
 
 * 🏢 10.2021 - 09.2023 <br> @**2Coders Studios**  <br> *React Web & SmartTV Developer*  <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript*
 
-<hr>
+<br>
 
 ## 📖 Academic Background
 
@@ -84,12 +66,13 @@ Having said all this, I've always been an individual that is always looking to l
 
 
 
-## GitHub stats:
+## 📊 GitHub Stats
 
 <div align="center">
-      <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=braggiouy&theme=nord_dark" alt="Braggiouy's github stats" /> 
+      <!--- <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=braggiouy&theme=nord_dark" alt="Braggiouy's github stats" />  --->
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braggiouy&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="Braggiouy's github stats"  />
      <!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braggiouy&show_icons=true&locale=en&layout=compact&theme=react" alt="Braggiouy's github stats"  /> --->
-<a align="right" href="https://app.daily.dev/braggio"><img src="https://api.daily.dev/devcards/v2/znHEbZftbwmPIKjXLZNlM.png?r=4l9&type=default" width="356" alt="Bruno Aggierni's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/braggio"><img src="https://api.daily.dev/devcards/v2/znHEbZftbwmPIKjXLZNlM.png?type=wide&r=1la" width="500" alt="Bruno Aggierni's Dev Card"/></a>
 </div>
 
 <!---
