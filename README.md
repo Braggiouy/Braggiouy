@@ -70,9 +70,11 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 <div align="center">
       <!--- <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=braggiouy&theme=nord_dark" alt="Braggiouy's github stats" />  --->
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braggiouy&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="Braggiouy's github stats"  />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=braggiouy&locale=en&hide_title=false&layout=compact&card_width=550&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="Braggiouy's github stats"  />
+  <br>
+  <br>
      <!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braggiouy&show_icons=true&locale=en&layout=compact&theme=react" alt="Braggiouy's github stats"  /> --->
-<a align="right" href="https://app.daily.dev/braggio"><img src="https://api.daily.dev/devcards/v2/znHEbZftbwmPIKjXLZNlM.png?type=wide&r=1la" width="500" alt="Bruno Aggierni's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/braggio"><img src="https://api.daily.dev/devcards/v2/znHEbZftbwmPIKjXLZNlM.png?type=wide&r=1la" width="550" alt="Bruno Aggierni's Dev Card"/></a>
 </div>
 
 <!---
