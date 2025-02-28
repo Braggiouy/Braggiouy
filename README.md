@@ -48,7 +48,7 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 ## 📖 Academic Background
 
-* 📖 09.2022 - Present <br> @**CIFP César Manrique** <br> ***(🇬🇧)** Web Applications Development of Higher Education (HND)* <br> ***(🇪🇸)** Grado Superior en Desarrollo de Aplicaciones Web (DAW)* <br> *2 out of 3 years completed*
+* 📖 09.2022 - 05.2025 <br> @**CIFP César Manrique** <br> ***(🇬🇧)** Web Applications Development of Higher Education (HND)* <br> ***(🇪🇸)** Grado Superior en Desarrollo de Aplicaciones Web (DAW)* <br> *Final year in progress (3/3 years completed)*
 
 * 📖 05.2021 - 08.2021 <br> @**Reboot Academy** <br> *Full Stack Web Developer Bootcamp* <br> *450 teaching hours*
 
