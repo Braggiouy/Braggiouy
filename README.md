@@ -34,8 +34,7 @@ Let's chat in :
 - 🇧🇷 Portugese
 - 🇬🇧 English
 - 🇫🇷 French
-- 🇩🇪 German
-  
+
 I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
 
 <br>
