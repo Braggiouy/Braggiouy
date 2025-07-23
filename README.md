@@ -41,9 +41,9 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 
 ## 🏢 IT Professional Background
 
-* 🏢 09.2023 -  Present <br> @**Norigin Media**  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript* , **React Native** - *Android - iOS* 
+* 🏢 09.2023 -  Present <br> @**Norigin Media** 🇳🇴  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript* , **React Native** - *Android - iOS* 
 
-* 🏢 10.2021 - 09.2023 <br> @**2Coders Studios**  <br> *React Web & SmartTV Developer*  <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript*
+* 🏢 10.2021 - 09.2023 <br> @**2Coders Studios** 🇮🇨 / 🇪🇸  <br> *React Web & SmartTV Developer*  <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript*
 
 <br>
 
