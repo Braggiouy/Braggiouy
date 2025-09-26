@@ -19,7 +19,6 @@
   
 </p>
 
-
 <br>
 
 ## 🔰 Developer on a fresh start ...
