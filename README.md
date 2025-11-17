@@ -56,16 +56,6 @@ I'm Bruno, a passionate Frontend & SmartTV Engineer from Uruguay 🇺🇾 crafti
 | 02.2021 – 05.2021 | Escuela de Organización Industrial (EOI) | Front End Web Developer Bootcamp | 335h |
 
 
-<hr>
-
-📖 Studying :  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
-
-📖 Studying just for fun : ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
-
-<hr>
-
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
