@@ -1,4 +1,6 @@
-<h1 align="center"> 🚶 BRAGGIO / A NEW JOURNEY IS ABOUT TO BEGIN 🥇 </h1>
+<h1 align="center">Braggio 🚀</h1>
+<h3 align="center">Frontend & SmartTV Engineer | OTT & Streaming Specialist </h3>
+
 
 <hr>
 <p align="center">
@@ -26,33 +28,33 @@
 
 Hi there! 🤙 
 
-I'm Bruno, a passionate developer from Uruguay 🇺🇾 currently living in the Canary Islands 🇮🇨. After traveling the world and mastering several human languages 🌎. I switched gears to programming. Now, I'm focused on building innovative solutions with modern technologies like React, React Native, and SmartTV platforms.
+I'm Bruno, a passionate Frontend & SmartTV Engineer from Uruguay 🇺🇾 crafting modern OTT experiences from the Canary Islands 🌴  
 
-Let's chat in : 
-- 🇺🇾 Spanish
-- 🇧🇷 Portugese
-- 🇬🇧 English
-- 🇫🇷 French
+**Languages:** 🇺🇾 Spanish • 🇧🇷 Portuguese • 🇬🇧 English • 🇫🇷 French  
 
-I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee and 🎷 jazz. 
+**Hobbies:** ⚽ Football • 🎮 History-inspired games • ☕ Coffee • 🎷 Jazz
+
 
 <br>
 
-## 🏢 IT Professional Background
+### 🏢 IT Professional Background
 
-* 🏢 09.2023 -  Present <br> @**Norigin Media** 🇳🇴  <br>  *React / React Native, Web, Mobile & SmartTV Developer* <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript* , **React Native** - *Android - iOS* 
+| Dates | Company | Country | Role | Stack / Platforms |
+|-------|--------|---------|------|-----------------|
+| 09.2023 – Present | Norigin Media | 🇳🇴 Norway | React / React Native, Web, Mobile & SmartTV Developer | Samsung Tizen, LG WebOS, Philips TitanOS, React JS/TS, React Native Android/iOS |
+| 10.2021 – 09.2023 | 2Coders Studios | 🇮🇨 Canary Islands / 🇪🇸 Spain | React Web & SmartTV Developer | Samsung Tizen, LG WebOS, React JS/TS |
 
-* 🏢 10.2021 - 09.2023 <br> @**2Coders Studios** 🇮🇨 / 🇪🇸  <br> *React Web & SmartTV Developer*  <br> **Samsung** - *Tizen* , **LG** - *WebOS* , **React** - *Javascript - Typescript*
 
-<br>
+---
 
-## 📖 Academic Background
+### 📖 Academic Background
 
-* 📖 09.2022 - 05.2025 <br> @**CIFP César Manrique** <br> ***(🇬🇧)** Web Applications Development of Higher Education (HND)* <br> ***(🇪🇸)** Grado Superior en Desarrollo de Aplicaciones Web (DAW)*
+| Dates | Institution | Program | Notes |
+|-------|------------|--------|-------|
+| 09.2022 – 05.2025 | CIFP César Manrique | Web Applications Development (HND) 🇬🇧 / Grado Superior DAW 🇪🇸 | 8.23/10 |
+| 05.2021 – 08.2021 | Reboot Academy | Full Stack Web Developer Bootcamp | 450h |
+| 02.2021 – 05.2021 | Escuela de Organización Industrial (EOI) | Front End Web Developer Bootcamp | 335h |
 
-* 📖 05.2021 - 08.2021 <br> @**Reboot Academy** <br> *Full Stack Web Developer Bootcamp* <br> *450 teaching hours*
-
-* 📖 02.2021 - 05.2021 <br> @**Escuela de Organizacion Industrial (EOI)** <br> *Front End Web Developer Bootcamp* <br> *335 teaching hours*
 
 <hr>
 
@@ -97,6 +99,16 @@ I enjoy playing ⚽ football, 🎮 historically accurate video games, ☕ coffee
 ![Tizen (Samsung)](https://img.shields.io/badge/-Tizen-32A4DF?style=flat&logo=samsung&logoColor=white)
 ![WebOS (LG)](https://img.shields.io/badge/-WebOS-A50034?style=flat&logo=lg&logoColor=white)
 ![AndroidTV](https://img.shields.io/badge/-AndroidTV-34A853?style=flat&logo=android&logoColor=white)
+![TitanOS (Philips)](https://img.shields.io/badge/-TitanOS-8A2BE2?style=flat&logo=philips&logoColor=white)
+
+### Players & Streaming Tech:
+![Shaka Player](https://img.shields.io/badge/-Shaka%20Player-0052CC?style=flat&logo=video.js&logoColor=white)
+![HLS.js](https://img.shields.io/badge/-HLS.js-FF7F50?style=flat)
+![RxPlayer](https://img.shields.io/badge/-RxPlayer-008080?style=flat)
+![Video.js](https://img.shields.io/badge/-Video.js-F7DF1E?style=flat&logo=video.js&logoColor=white)
+![Dash.js](https://img.shields.io/badge/-Dash.js-004080?style=flat)
+![HLS Player](https://img.shields.io/badge/-HLS%20Player-FF4500?style=flat)
+
 
 ### Frameworks & Libraries:
 ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
