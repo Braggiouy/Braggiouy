@@ -14,24 +14,27 @@ I'm Bruno, a passionate Frontend & SmartTV Engineer from Uruguay 🇺🇾 crafti
 
 ---
 
-## Connect
-
 <p align="center">
   <a href="https://ko-fi.com/braggio">
     <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/bruno-aggierni/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://dev.to/braggiouy">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
+  
   <a href="https://twitter.com/BruAggierni">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  
   <a href="mailto:bruno.aggierni@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
 </p>
 
 ---
