@@ -100,10 +100,6 @@ I'm Bruno, a passionate Frontend & SmartTV Engineer from Uruguay 🇺🇾 crafti
 ## Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=braggiouy&layout=compact&langs_count=5&theme=rose_pine&hide_border=true" height="150" />
-</p>
-
-<p align="center">
   <a href="https://app.daily.dev/braggio">
     <img src="https://api.daily.dev/devcards/v2/znHEbZftbwmPIKjXLZNlM.png?type=wide" width="550" alt="Bruno Braggio's Dev Card" />
   </a>
